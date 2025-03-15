@@ -1,0 +1,1 @@
+ /media/haroun/Stockage/Documents/flutter-projects/post_app/.dart_tool/flutter_build/2e97b40d020ce20e0f2399b6d171fe89/native_assets.yaml: 

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 12 17:41:10 GMT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0195-8b72-2c94-00000294d1d8 
+on database directory /media/haroun/Stockage/Documents/Android/Bien_backend/test with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1dbd16a6 
+Loaded from file:/home/haroun/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=17.0.14+7-Ubuntu-124.04
+user.dir=/media/haroun/Stockage/Documents/Android/Bien_backend
+os.name=Linux
+os.arch=amd64
+os.version=6.11.0-19-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
